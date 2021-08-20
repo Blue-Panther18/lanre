@@ -1,0 +1,213 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.aboutme {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+                inset -5px -5px 10px 1px rgb(230, 227, 227);
+    
+}
+
+#myimage {
+    width: 30%;
+    border-radius: 700%;
+    border-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    margin-right: 70%;
+    margin-left: 35%;
+    padding: 0%;
+    margin-top: 20px;
+    
+}
+
+.social {
+    width: 30px;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+}
+
+#github {
+    padding-bottom: 17px;
+}
+
+#twt {
+    padding-bottom: 12px;
+}
+
+.zuri {
+    width: 50px;
+    margin: 3%;
+    padding: 3%;
+    position: absolute;
+    left: 0px;
+    top: -10px;
+
+
+}
+
+.logo {
+    width: 50px;
+    padding: 3%;
+    margin: 3%;
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: -10px;
+    border-radius: 10px;
+}
+
+.profile-container {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+    
+}
+
+.skills {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+    
+}
+
+.skills ul li {
+    
+    text-align: justify;
+    justify-content: space-around;
+    list-style: none;
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+}
+
+.education {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+    
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+a:hover {
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    background:rgb(234, 236, 236);
+    
+}
+
+.exp {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+    
+}
+
+.web {
+    text-align: left;
+    border: none;
+    border-style: solid;
+    border-radius: 20px;
+    width: 80%;
+    border-color: rgb(241, 238, 238);
+    margin: 0 auto;
+    margin-top: 2%;
+    padding: 14px;
+    margin-bottom: 14px;
+    box-shadow: inset 3px 3px 1px 1px rgb(230, 227, 227),
+    inset -3px -3px 1px 1px rgb(230, 227, 227);
+    
+}
+
+.intern {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 50%;
+    padding-bottom: 10px;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+}
+
+.training {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 20px;
+    width: 50%;
+    padding: 10px;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+    
+}
+
+footer {
+    text-align: center;
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    width: 95%;
+    border-color: rgb(190, 186, 186);
+    margin: 0 auto;
+    margin-top: 2%;
+    box-shadow: inset 5px 5px 10px 1px rgb(230, 227, 227),
+    inset -5px -5px 10px 1px rgb(230, 227, 227);
+    
+}
